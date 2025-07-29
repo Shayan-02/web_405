@@ -1,0 +1,37 @@
+span{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.g1{
+    color: blue;
+}
+
+#o1{
+    color: red;
+}
+
+#o2{
+    color: yellow;
+}
+
+#l{
+    color: green;
+}
+
+#e{
+    color: red;
+}
+
+
+.sp{
+    font-size: 16px !important;
+}
+
+.t{
+    border: 1px solid black;
+}
+
+.class5{
+    background-color: chocolate;
+}

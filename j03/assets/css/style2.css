@@ -1,0 +1,27 @@
+@font-face {
+    font-family: iran;
+    src: url(./../fonts/IranNastaliq.ttf);
+}
+
+@font-face {
+    font-family: vazir;
+    src: url(./../fonts/Vazir.ttf),
+         url(./../fonts/Vazir.eot),
+         url(./../fonts/Vazir.woff),
+         url(./../fonts/Vazir.woff2);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+QLD+Hand:wght@400..700&display=swap');
+
+
+h1{
+    font-family: iran;
+}
+
+h2{
+    font-family: vazir;
+}
+
+p{
+    font-family: "Edu QLD Hand", cursive;
+}
