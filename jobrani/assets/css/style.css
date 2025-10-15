@@ -1,0 +1,49 @@
+.he1{
+    color: crimson;
+}
+
+.he2{
+    color: cornflowerblue;
+}
+
+.he3{
+    color: darkorange;
+}
+
+p{
+    font-size: 30px;
+}
+
+#p1{
+    color: darkgreen;
+}
+
+#p2{
+    color: darkviolet;
+}
+
+#p3{
+    color: rgb(29, 26, 230);
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+#i1{
+    margin-right: 150px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 500px;
+}
+
+#i2{
+    /* margin : bala rast payeen chap */
+    /* margin: 100px 150px 50px 100px; */
+    margin: 100px;
+    padding: 20px;
+    border: 10px solid black;
+    background-color: lightgreen;
+}

@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Cascadia+Code:ital,wght@0,200..700;1,200..700&family=Noto+Sans+Arabic:wght@100..900&family=Vazirmatn:wght@100..900&display=swap');
+
+*{
+    font-family: Vazirmatn, Noto Sans Arabic, Cascadia Code, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.banner{
+    background-color: #17CF5D;
+    height: 60px;
+}
+
+.banner-photo{
+    height: 60px;
+    width: 50%;
+}
+
+.logo{
+    margin-top: 20px;
+    margin-right: 150px;
+}
+
+ul{
+    display: inline-block;
+}
+
+.item{
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.item-link{
+    text-decoration: none;
+    color: #3a3636;
+    font-weight: 500;
+    font-size: 14px;
+}
